@@ -11,10 +11,17 @@
   ],
   "custom_channels": [
     {
-      "name": "iiii",
-      "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+      "name": "mmmm",
+      "url": "",
+      "backup_url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+      "category": "uu",
+      "logo": "https://live.enhdtv.com:8081/8150/index.m3u8"
+    },
+    {
+      "name": "",
+      "url": "",
       "backup_url": "",
-      "category": "qqqq",
+      "category": "",
       "logo": ""
     }
   ],
