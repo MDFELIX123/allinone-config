@@ -37,11 +37,12 @@
     "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "https://iptv-org.github.io/iptv/countries/us.m3u",
     "https://iptv-org.github.io/iptv/countries/vn.m3u",
-    "https://iptv-org.github.io/iptv/countries/za.m3u"
+    "https://iptv-org.github.io/iptv/countries/za.m3u"‘
+    "https://iptv-org.github.io/iptv/countries/al.m3u"
   ],
   "custom_channels": [],
   "bundle_channels": [],
   "premium": {
-    "75ad90e5117c31ad": "2026-06-22"
+    "ce184bca161b670c": "2026-06-22"
   }
 }
