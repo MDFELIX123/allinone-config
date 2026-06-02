@@ -1,0 +1,17 @@
+{
+  "app_name": "allTVone Pro",
+  "version": "2.0",
+  "telegram": "@APKBrainKiller_official",
+  "playlist_urls": [
+    "https://iptv-org.github.io/iptv/countries/ng.m3u",
+    "https://iptv-org.github.io/iptv/regions/africa.m3u",
+    "https://raw.githubusercontent.com/telanus/M3U/main/SABCPlus.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u",
+    "https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u"
+  ],
+  "custom_channels": [],
+  "bundle_channels": [],
+  "premium": {
+    "ce184bca161b670c": "2026-12-31"
+  }
+}
