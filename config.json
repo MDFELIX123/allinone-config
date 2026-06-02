@@ -9,15 +9,7 @@
     "https://iptv-org.github.io/iptv/index.m3u",
     "https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u"
   ],
-  "custom_channels": [
-    {
-      "name": "",
-      "url": "",
-      "backup_url": "",
-      "category": "",
-      "logo": ""
-    }
-  ],
+  "custom_channels": [],
   "bundle_channels": [],
   "premium": {
     "ce184bca161b670c": "2026-07-02"
