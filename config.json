@@ -1,4 +1,4 @@
-{
+this{
   "app_name": "allTVone Pro",
   "version": "2.0",
   "telegram": "@APKBrainKiller_official",
@@ -8,6 +8,6 @@
   "custom_channels": [],
   "bundle_channels": [],
   "premium": {
-    "559996726d44e129": "2026-06-22"
+    "75ad90e5117c31ad": "2026-06-22"
   }
 }
