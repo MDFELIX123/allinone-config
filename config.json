@@ -1,14 +1,13 @@
 {
-  "app_name": "All In One TV Pro",
+  "app_name": "allTVone Pro",
   "version": "2.0",
   "telegram": "@APKBrainKiller_official",
-  "free_trial": true,
-  "free_trial_days": 30,
   "playlist_urls": [
-    "https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u"
+    "https://iptv-org.github.io/iptv/index.m3u"
   ],
   "custom_channels": [],
   "bundle_channels": [],
-  "premium": {},
-  "locked_message": "Subscribe to Premium.\n\n📢 @APKBrainKiller_official"
+  "premium": {
+    "559996726d44e129": "2026-06-22"
+  }
 }
