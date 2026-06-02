@@ -1,13 +1,21 @@
 {
-  "app_name": "allTVonePro",
+  "app_name": "allTVone Pro",
   "version": "2.0",
   "telegram": "@APKBrainKiller_official",
   "playlist_urls": [
     "https://iptv-org.github.io/iptv/index.m3u"
   ],
-  "custom_channels": [],
+  "custom_channels": [
+    {
+      "name": "Test Channel",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "backup_url": "",
+      "category": "General",
+      "logo": ""
+    }
+  ],
   "bundle_channels": [],
   "premium": {
-    "ce184bca161b670c": "2026-06-30"
+    "75ad90e5117c31ad": "2026-06-22"
   }
 }
