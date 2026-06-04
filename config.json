@@ -4,8 +4,7 @@
   "telegram": "@APKBrainKiller_official",
   "playlist_urls": [
     "https://iptv-org.github.io/iptv/countries/ng.m3u",
-    "https://iptv-org.github.io/iptv/languages/eng.m3u",
-    "https://iptv-org.github.io/iptv/index.m3u"
+    "https://iptv-org.github.io/iptv/languages/eng.m3u"
   ],
   "custom_channels": [],
   "bundle_channels": [],
@@ -13,6 +12,7 @@
     "ce184bca161b670c": "2026-07-2",
     "de3ac9975a624197": "2026-07-03",
     "661f71f9345d3ea6": "2026-07-03",
-    "a66c7ddc8f7dd075": "2026-07-06"
+    "a66c7ddc8f7dd075": "2026-07-06",
+    "cee217259dde9f31": "2026-07-04"
   }
 }
