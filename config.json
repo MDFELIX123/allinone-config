@@ -7,14 +7,7 @@
     "https://iptv-org.github.io/iptv/languages/eng.m3u",
     "https://iptv-org.github.io/iptv/index.m3u"
   ],
-  "custom_channels": [
-    {
-      "name": "0000",
-      "url": "https://teststreams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "category": "kide",
-      "logo": ""
-    }
-  ],
+  "custom_channels": [],
   "bundle_channels": [],
   "premium": {
     "de3ac9975a624197": "2026-07-03",
