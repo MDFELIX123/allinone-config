@@ -4,7 +4,8 @@
   "telegram": "@APKBrainKiller_official",
   "playlist_urls": [
     "https://iptv-org.github.io/iptv/countries/ng.m3u",
-    "https://iptv-org.github.io/iptv/languages/eng.m3u"
+    "https://iptv-org.github.io/iptv/languages/eng.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u"
   ],
   "custom_channels": [],
   "bundle_channels": [],
