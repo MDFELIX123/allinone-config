@@ -7,15 +7,7 @@
     "https://iptv-org.github.io/iptv/languages/eng.m3u",
     "https://iptv-org.github.io/iptv/index.m3u"
   ],
-  "custom_channels": [
-    {
-      "name": "aaaaaaaa",
-      "url": "http://135.125.109.73:9000/beinsport9_.m3u8",
-      "backup_url": "",
-      "category": "Sports",
-      "logo": "bahttp://135.125.109.73:9000/beinsport9_.m3u8"
-    }
-  ],
+  "custom_channels": [],
   "bundle_channels": [],
   "premium": {
     "de3ac9975a624197": "2026-07-06",
@@ -28,7 +20,6 @@
     "ce184bca161b670c": "2027-06-05",
     "5873f3907ae90243": "2026-07-05",
     "82208504d06eb241": "2026-07-05",
-    "8113610f788dee10": "2026-07-06",
-    "d262b9bff6533c4a": "2026-07-21"
+    "8113610f788dee10": "2026-07-06"
   }
 }
