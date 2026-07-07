@@ -2,9 +2,7 @@
   "app_name": "allTVone Pro",
   "version": "2.0",
   "telegram": "@APKBrainKiller_official",
-  "playlist_urls": [
-    "https://iptv-org.github.io/iptv/languages/eng.m3u"
-  ],
+  "playlist_urls": [],
   "custom_channels": [],
   "bundle_channels": [],
   "premium": {
