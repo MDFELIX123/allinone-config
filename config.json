@@ -2,8 +2,20 @@
   "app_name": "allTVone Pro",
   "version": "2.0",
   "telegram": "@APKBrainKiller_official",
-  "playlist_urls": [],
-  "custom_channels": [],
+  "playlist_urls": [
+    "https://iptv-org.github.io/iptv/countries/ng.m3u",
+    "https://iptv-org.github.io/iptv/languages/eng.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u"
+  ],
+  "custom_channels": [
+    {
+      "name": "1",
+      "url": "2",
+      "backup_url": "",
+      "category": "Sports",
+      "logo": ""
+    }
+  ],
   "bundle_channels": [],
   "premium": {
     "de3ac9975a624197": "2026-07-06",
