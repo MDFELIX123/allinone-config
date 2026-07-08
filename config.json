@@ -35,6 +35,8 @@
     "adsterra_link": "https://everybodycollecteagle.com/rcb13vfs?key=99c322303bed25ffa75d9d64b067b946",
     "enabled": true
   },
-  "premium_uids": [],
+  "premium_uids": [
+    "5edbbab1a762e4b5"
+  ],
   "ad_popup_interval_minutes": 0
 }
